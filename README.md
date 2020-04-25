@@ -1,1 +1,1 @@
-# Kori-enje-naprednih-CSS-selektora
+# Koriscenje-naprednih-CSS-selektora
